@@ -11,7 +11,7 @@
 
 ##### Here is our original results.
 
-![Challenge1](https://github.com/mckenziekkilburn/School_District_Analysis/blob/master/Resources/Challenge1.PNG)
+![challenge1](https://github.com/mckenziekkilburn/School_District_Analysis/blob/master/Resources/challenge1.PNG)
 
 - As shown in the images above, I would say that there is not a significant difference in the results but we will take a deeper look.
 
